@@ -1,0 +1,672 @@
+.navbody{
+    background-color: rgb(201, 206, 207);
+}
+.shutt{
+    font-size: x-large;
+   
+}
+.login{
+    color: black;
+    background-color: white;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+.login:hover{
+    color: white;
+    background-color: tomato;
+}
+.signin{
+    color: white;
+    background-color: tomato;
+    border-radius: 10px;
+}
+.signin:hover{
+    color: black;
+    background-color: white;
+}
+#imagehome{
+    margin-left: 140px;
+    font-size: small;
+}
+#imagehome1{
+    margin-left: 17%;
+    font-size: small;
+}
+#imagehome2{
+    margin-left: 25%;
+    font-size: small;
+}
+#imagehome3{
+    margin-left: 32%;
+    font-size: small;
+}
+#imagehome4{
+    margin-left: 38%;
+    font-size: small;
+}
+#imagehome5{
+    margin-left: 44%;
+     font-size: small;
+}
+.searchlogo{
+    background-color: rgb(240, 68, 38);
+    color: white;
+    font-weight: bolder;
+}
+.container h4{
+    margin-top: 50px;
+    margin-left: 26%;
+    margin-bottom: 40px;
+}
+.new2{
+    background-color: rgb(202, 202, 198);
+    margin-top: 60px;
+}
+.new button{
+    margin-top: 15px;
+    width: 50%;
+    border-radius: 20px;
+    margin-left: 20px;
+   
+}
+.new h2{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.new h5{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.new p{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.new h2{
+    color: tomato;
+    
+}
+.card img:hover{
+    background-color: rgb(63, 61, 61);
+/* color: rgb(71, 69, 69); */
+cursor: pointer;
+}
+#Royalty h4{
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+#covid19{
+    margin-top: 90px;
+    background-color: rgb(29, 27, 27);
+}
+.covid19result h4{
+    margin-top: 50px;
+    color: white;
+}
+.covid19result p{
+    color: white;
+}
+.covid19result button{
+    margin-top: 8px;
+    margin-left: 90px;
+    width: 32%;
+    border-radius: 20px;
+
+}
+.covid19result span{
+    color: tomato;
+}
+#yoyalityfree{
+    margin-top: 90px;
+    
+}
+
+
+#yoyalityfree h4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#signup{
+    margin-top: 90px;
+    
+}
+.createaccount{
+    width: 100%;
+    border-radius: 25px;
+    font-weight: bold;
+
+
+}
+#needimage{
+    margin-top: 90px;
+}
+.needimage2{
+   background: url(https://images.pexels.com/photos/4173624/pexels-photo-4173624.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+   /* background-position: center; */
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.pay{
+    margin-top: 35px;
+}
+.pay h4{
+    color: white;
+    margin-left: 74px;
+
+}
+.pay p{
+    color: white;
+    margin-left: 74px;
+}
+
+
+.pay button{
+    width: 80%;
+    border-radius: 25px;
+    height: 40px;
+font-weight: bold;
+border: 1px solid white;
+
+}
+.pay button:hover{
+    color: rgb(228, 228, 216);
+    background-color: rgb(69, 119, 57);
+}
+#tooltip{
+    margin-top: 80px;
+}
+#downloadimage{
+    margin-top: 90px;
+}
+.risk-free{
+    background-color: rgb(247, 41, 41);
+    /* height: 72px; */
+}
+.trial1{
+    margin-top: 30px;
+    margin-left: 90px;
+    color: white;
+    font-weight: bold;
+    
+}
+.trial button{
+    margin-top: 10px;
+    width: 40%;
+    height: 40px;
+    font-weight: bold;
+    color: white;
+    background-color:rgb(247, 41, 41);
+    border-radius: 24px;
+    border: 1px solid white;
+
+}
+.trial button:hover{
+    color:black;
+    background-color: white;
+}
+/* .abstract{
+    
+} */
+.abstract li{
+    list-style-type: none;
+  
+   }
+.abstract a{
+   
+    text-decoration: none;
+    color: rgb(124, 116, 116);
+}
+.abstract a:hover{
+    color: black;
+}
+#Browse{
+    margin-top: 50px;
+}
+#Browse h4{
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+.quality p{
+    text-align: center;
+   opacity: 0.8;
+
+}
+.hrline{
+    width: 190px;
+    height: 2px;
+    color: red;
+    background-color: red;
+}
+.quality h4{
+margin-bottom: 0;
+}
+#access{
+    /* height: 90vh; */
+    margin-top: 20px;
+    background: url(https://images.pexels.com/photos/259707/pexels-photo-259707.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact1{
+    background-color: rgb(12, 10, 10);
+    padding: 40px;
+    border-radius: 8px;
+}
+.contact1 label{
+    color: white;
+}
+.submit{
+    border: 1px solid white;
+    color: white;
+    width: 20%;
+}
+.submit:hover{
+  color: black;
+    background-color: rgb(235, 166, 17);
+}
+.feature{
+    margin-top: 130px;
+}
+.feature h1{
+    color: white;
+    font-weight: bolder;
+}
+.feature p{
+font-weight: bold;
+    color: white;
+}
+.feature1{
+    margin-top: 100px;
+    background-color: rgb(252, 252, 252);
+    height: 75%;
+    border-radius: 20px;
+}
+.feature1 label{
+    margin-left: 40px;
+    font-size: larger;
+    font-weight: bold;
+    margin-top: 0px;
+
+}
+.feature1 input{
+    width: 80%;
+    margin-left: 35px;
+    border-radius: 20px;
+    border: 2px solid rgb(143, 160, 132);
+}
+.feature1 small{
+    margin-left: 50px;
+}
+.feature1 button{
+    width: 60%;
+    margin-left: 90px;
+    margin-top: 0px;
+}
+.feature1 button:hover{
+    background-color: rgb(155, 37, 37);
+}
+.creatingaccount{
+    margin-top: 20px;
+}
+#automaticaly{
+    margin-top: 56px;
+text-align: center;
+opacity: 0.8;
+
+}
+#automaticaly a{
+    font-weight: bold;
+}
+#action1{
+    background-color: rgb(18, 11, 37);
+    /* height: 90vh; */
+}
+.English a{
+    color: rgb(7, 255, 7);
+    font-size: large;
+    text-decoration: underline;
+}
+.English a:hover{
+    color: rgb(204, 192, 26);
+}
+.English h6{
+    margin-top: 60px;
+    color: white;
+    /* font-weight: bold; */
+    opacity: 0.9;
+
+}
+.language button{
+    margin-top: 45px;
+  margin-left: 40%;
+  width: 35%;
+  border-radius: 20px;
+  text-align: right;
+  font-size: larger;
+  background-color:rgb(18, 11, 37);
+  border: 1px solid white;
+  color: white;
+}
+.language button:hover{
+    color: white;
+}
+.globeenglish{
+   margin-right: 30px;
+    font-size: x-large;
+}
+.container5{
+      width: 30vw;
+     
+      text-align: center;
+    border-radius: 20px;
+    
+}
+.dansk{
+    margin-top: 10px;
+ }
+.dansk a{
+    color: black;
+    font-size: small;
+    text-decoration: none;
+   
+ }
+#content{
+    margin-top: 60px;
+}
+.premium ul{
+    list-style-type: none; 
+ }
+.premium a{
+    color: white;
+    opacity: 0.8;
+ 
+}
+.premium a:hover{
+    color: rgb(123, 129, 124);;
+}
+.premium ul li{
+    margin-top: 15px;
+}
+#footer{
+    margin-top: 0px;
+    background-color: rgb(24, 18, 18);
+    padding: 30px;
+    color: white;
+    
+}
+.desclamer3 p{
+    font-size: 15px;
+}
+.desclamer1:hover{
+    color: rgb(255, 208, 0);
+    cursor: pointer;
+
+}
+.desclamer2{
+    margin-left: 15px;
+}
+.desclamer2:hover{
+    color: rgb(255, 208, 0);
+    cursor: pointer;
+}
+.desclamer{
+    color: white;
+   
+}
+#footer span{
+    color:rgb(255, 208, 0);
+    cursor: pointer;
+}
+.icon5{
+    margin-left: 10px;
+}
+.icon5:hover{
+    color: rgb(255, 208, 0);
+    cursor: pointer;
+}
+.content2{
+    color: rgb(11, 245, 62);
+    font-size: large;
+}
+
+.box{
+    border: 2px solid rgb(133, 132, 132);
+    overflow: hidden;
+}
+.content_box{
+color: white;
+background-color: black;
+position: absolute;
+top: 0%;
+left: -100%;
+width: 100%;
+height: 100%;
+text-align: center;
+transition: all 0.5s;
+opacity: 0.9;
+}
+
+.content_box h6{
+    font-size: x-large;
+    margin-top: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+}
+.content_box p{
+    font-size: xx-large;
+    margin-top: 40px;
+    font-weight: bold;
+    color: white;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    padding: 30px;
+}
+.box:hover .content_box{
+    left: 0%;
+}
+::selection{
+    color: rgb(235, 235, 236);
+    background-color: rgb(238, 9, 28);
+    }
+
+/* for mobile phones */
+@media (max-width: 768px){
+    .container h4{
+        margin-top: 50px;
+        margin-left: 10%;
+        font-size: larger;
+        margin-bottom: 40px;
+    }
+    .covid19result button{
+        margin-top: 5px;
+        margin-left: 60px;
+        width: 44%;
+        border-radius: 20px;
+    
+    }
+    .card{
+        padding-top: 20px;
+    }
+    .card:hover{
+        /* border: ; */
+        background-color: rgb(207, 205, 85);
+    }
+    .pay button{
+    width: 80%;
+    border-radius: 25px;
+    height: 40px;
+font-weight: bold;
+margin-left: 60px;
+margin-bottom: 20px;
+}
+.trial button{
+    margin-left: 160px;
+    margin-top: 20px;
+  }
+  .risk-free{
+    background-color: rgb(247, 41, 41);
+    height: 19vh;
+}
+#access{
+    height: 100vh;
+    margin-top: 0px;
+   
+}
+
+.feature{
+    margin-top: 50px;
+   
+}
+.feature h1{
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+}
+.feature p{
+font-weight: normal;
+    color: white;
+    font-size: large;
+    font-size: 18px;
+}
+.English h6{
+    margin-top: 40px;
+    color: white;
+    font-weight: bold;
+    font-size: small;
+    /* opacity: 0.9; */
+
+ }
+.language button{
+    margin-top: 35px;
+  margin-left: 0%;
+  width: auto;
+  border-radius: 20px;
+  text-align: right;
+  font-size: larger;
+  background-color:rgb(18, 11, 37);
+  border: 1px solid white;
+  color: white;
+} 
+.container5{
+    width: 44vw;
+   
+    text-align: center;
+  border-radius: 20px;
+  
+}
+.desclamer1{
+    margin-bottom: 15px;
+    
+}
+.desclamer2{
+    margin-bottom: 15px;
+    margin-left: 0;
+}
+}
+/* teblat friendly code*/
+@media (min-width:768px) and (max-width:1024px){
+    .pay button{
+        width: 80%;
+        border-radius: 25px;
+        height: 40px;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 22px;
+    }
+    .language button{
+        margin-top: 50px;
+        width: auto;
+     
+    }
+    .submit{
+        width: 35%;
+   }
+   .desclamer2{
+    margin-left: 55px;
+}
+.desclamer3 {
+    margin-left: 20px;
+}
+.card:hover{
+    /* border: ; */
+    background-color: rgb(207, 205, 85);
+}
+}
+@media(max-width:576px){
+ .new img{
+     margin-left: 40px;
+     /* text-align: center; */
+ }   
+ .covid19result img{
+     margin-left: 0px;
+ }
+ #access{
+    height: 110vh;
+    margin-top: 0px;
+   
+}
+.trial button{
+    margin-left: 90px;
+    margin-top: 20px;
+  }
+  .pay button{
+    width: 60%;
+    border-radius: 25px;
+    height: 40px;
+font-weight: bold;
+margin-left: 30px;
+
+}
+.pay h4{
+    margin: 0;
+}
+.pay p{
+    margin: 0;
+}
+.trial1{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    font-weight: bold;
+    
+}
+.trial button{
+    margin-top: 12px;
+    width: 45%;
+    height: 30px;
+    font-weight: bold;
+    color: white;
+    background-color:rgb(247, 41, 41);
+    border-radius: 24px;
+    border: 1px solid white;
+
+}
+.feature h1{
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+}
+.feature p{
+font-weight: bold;
+    color: white;
+    font-size: small;
+}
+.feature1{
+    margin-top: 40px;
+    background-color: rgb(252, 252, 252);
+    height: auto;
+    border-radius: 20px;
+}
+.feature1 button{
+    width: 60%;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+}
+@media (max-width:468px){
+   
+     .submit{
+       width: auto;
+    }
+
+}
